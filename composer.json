@@ -1,0 +1,15 @@
+{
+  "name": "serdiukov/php-tunduk",
+  "license": "MIT",
+  "description": "",
+  "keywords": ["php", "php-tunduk", "soap-tunduk"],
+  "type": "library",
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "serdiukov\\tunduk\\": "src/"
+    }
+  }
+}
